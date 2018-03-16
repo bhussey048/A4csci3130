@@ -23,8 +23,6 @@
         <activity
             android:name=".DetailViewActivity"
             android:parentActivityName=".MainActivity" />
-        <activity android:name=".CreateContactAcitivity"
-            android:parentActivityName=".MainActivity" />
     </application>
 
 </manifest>
